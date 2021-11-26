@@ -58,6 +58,5 @@ def stringRotation(orig, rotations):
 	
 	rotatedStr = ''
 	for letter in rotated:
-		# rotatedStr = rotatedStr + letter
 		rotatedStr += letter
 	return rotatedStr
